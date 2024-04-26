@@ -32,7 +32,7 @@ export default function CertificatePage() {
                             <div className="cert-card">
                               <div className="content">
                                 <a
-                                  href="#"
+                                  href="http/guro"
                                   target="_blank"
                                   rel="noopener noreferrer"
                                 >

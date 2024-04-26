@@ -1,10 +1,5 @@
 import React from "react";
-import {
-  AiOutlineInstagram,
-  AiFillFacebook,
-  AiFillGithub,
-  AiFillLinkedin,
-} from "react-icons/ai";
+import { AiOutlineInstagram, AiFillFacebook } from "react-icons/ai";
 import { Container, Row } from "react-bootstrap";
 import { Col } from "react-bootstrap";
 import Zoom from "react-reveal/Zoom";
