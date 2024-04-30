@@ -176,6 +176,7 @@ html {
 }
 .img-fluid {
   width: 384px;
+  border-radius: 50%;
 }
 .logo {
   height: 1.8em !important;
