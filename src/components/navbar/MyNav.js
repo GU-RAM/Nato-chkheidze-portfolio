@@ -38,7 +38,7 @@ export default function MyNav() {
                 color: "#fbd9ad",
               }}
             >
-              ნატო ჩხეიძე{" "}
+              ნატო ჩხეიძე - მასაჟისტი{" "}
             </h5>
           </div>
         </Navbar.Brand>
@@ -69,11 +69,11 @@ export default function MyNav() {
                 <AiOutlineFundProjectionScreen
                   style={{ marginBottom: "2px" }}
                 />{" "}
-                ფიდბექები
+                შეფასებები
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
+            {/* <Nav.Item>
               <Nav.Link
                 as={Link}
                 to="/certificatepage"
@@ -81,7 +81,7 @@ export default function MyNav() {
               >
                 <ImBlog style={{ marginBottom: "2px" }} /> გამოცდილება
               </Nav.Link>
-            </Nav.Item>
+            </Nav.Item> */}
 
             <Nav.Item>
               <Nav.Link

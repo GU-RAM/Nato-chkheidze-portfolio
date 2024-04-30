@@ -16,7 +16,9 @@ export default function ProjectPage() {
             style={{ backgroundColor: "#fbd9ad" }}
           >
             <Zoom left cascade>
-              <h1 style={{ color: "rgb(134 61 176" }}>პაციენტების ფიდბექები</h1>
+              <h1 style={{ color: "rgb(134 61 176" }}>
+                პაციენტების შეფასებები
+              </h1>
             </Zoom>
           </div>
           <div>

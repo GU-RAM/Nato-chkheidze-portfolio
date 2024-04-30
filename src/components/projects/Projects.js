@@ -17,7 +17,7 @@ export default function Projects() {
               className="certificate-description d-flex justify-content-start"
             >
               <Zoom left cascade>
-                <h1 className="aboutme-heading">პაციენტების ფიდბექები</h1>
+                <h1 className="aboutme-heading">პაციენტების შეფასებები</h1>
               </Zoom>
             </Col>
             <Col md={3}>
