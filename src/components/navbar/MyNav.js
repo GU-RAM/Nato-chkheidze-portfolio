@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
 import { Link } from "react-router-dom";
-import { ImBlog } from "react-icons/im";
+// import { ImBlog } from "react-icons/im";
 import { AiOutlineHome, AiOutlineFundProjectionScreen } from "react-icons/ai";
 import { FaBlog } from "react-icons/fa";
 import "../../style.css";
