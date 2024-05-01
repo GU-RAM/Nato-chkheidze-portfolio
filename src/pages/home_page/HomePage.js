@@ -34,7 +34,9 @@ export default function Home() {
               <div className="typing-homeclass">
                 <Typing />
               </div>
-
+              <br />
+              <br />
+              <h6 className="heading-name">ტელ: 593 21-80-71</h6>
               <div className="sociallink-home">
                 <ul className="homeaboutsociallinks">
                   <li className="socialicons">

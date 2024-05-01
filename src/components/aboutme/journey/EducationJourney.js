@@ -33,20 +33,7 @@ function EducationJourney() {
           iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           icon={<SchoolIcon />}
         >
-          <h5>სოხუმის სამედიცინო ტექნიკუმი საექთნო ფაკულტეტი</h5>
-        </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--work"
-          contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
-          contentArrowStyle={{ borderRight: "7px solid  rgb(78 22 112)" }}
-          date="1980"
-          iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
-          icon={<SchoolIcon />}
-        >
-          <h5>
-            მედდად ვმუშაობდი სოხუმის ფსიქიატრიული საავადმყოფოს ნევროლოგიურ
-            განყოფილებაში
-          </h5>
+          <h5>სოხუმის სამედიცინო ტექნიკუმი - მედდის სპეციალობა</h5>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
@@ -58,21 +45,12 @@ function EducationJourney() {
         >
           <h5>ჩავირიცხე კალინინის(აწ უკვე ტვერის) სახელმწიფო უნივერსიტეტში</h5>
         </VerticalTimelineElement>
+
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           contentArrowStyle={{ borderRight: "7px solid  rgb(78 22 112)" }}
-          date="1985"
-          iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
-          icon={<SchoolIcon />}
-        >
-          <h5>დავიწყე მუშაობა კალინინის საოლქო საავამდყოფოში</h5>
-        </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--work"
-          contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
-          contentArrowStyle={{ borderRight: "7px solid  rgb(78 22 112)" }}
-          date="1985-1986"
+          date="1984-1985"
           iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           icon={<SchoolIcon />}
         >
@@ -81,29 +59,7 @@ function EducationJourney() {
             კალინინის საოლქო საავადმყოფოში.
           </h5>{" "}
         </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--work"
-          contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
-          contentArrowStyle={{ borderRight: "7px solid  rgb(78 22 112)" }}
-          date="1986"
-          iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
-          icon={<SchoolIcon />}
-        >
-          <h5>დავიწყე მასაჟისტის კარიერა კალინინის საოლქო საავადმყოფოში</h5>
-        </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--work"
-          contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
-          contentArrowStyle={{ borderRight: "7px solid  rgb(78 22 112)" }}
-          date="1989"
-          iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
-          icon={<SchoolIcon />}
-        >
-          <h5>
-            მაღალკვალიფიციური საქმიანობის გამო მივიღე კალინინში დაწესებული ჯილდო
-            "ოქროს ხელები"
-          </h5>
-        </VerticalTimelineElement>
+
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
@@ -115,19 +71,6 @@ function EducationJourney() {
           <h5>
             წითელ დიპლომზე დავასრულე ქიმიურ-ბიოლოგიური ფაკულტეტის 5 წლიანი
             პროგრამა
-          </h5>
-        </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--work"
-          contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
-          contentArrowStyle={{ borderRight: "7px solid  rgb(78 22 112)" }}
-          date="1993"
-          iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
-          icon={<SchoolIcon />}
-        >
-          <h5>
-            დავიწყე მასაჟისტის პრაქტიკული საქმიანობა ბინაზე მისვლით, რაც
-            გრძელდება დღემდე
           </h5>
         </VerticalTimelineElement>
 

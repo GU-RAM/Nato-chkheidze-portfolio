@@ -29,30 +29,64 @@ function ExperienceJourney() {
           className="vertical-timeline-element--work"
           contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           contentArrowStyle={{ borderLeft: "7px solid  rgb(78 22 112)" }}
-          // date="2023 - Continuing"
+          date="1980"
           iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           icon={<PersonIcon />}
         >
           <h5 className="vertical-timeline-element-title">
-            პრაქტიკოსი მასაჟისტი 30+ წელი
+            მედდად ვმუშაობდი სოხუმის ფსიქიატრიული საავადმყოფოს ნეიროქირურგიულ
+            განყოფილებაში{" "}
           </h5>
-          <h6 className="vertical-timeline-element-subtitle mt-2">პოზიცია </h6>
-          <p>• რას ვაკეთებ და როგორ</p>
-          <p>• რას ვაკეთებ და როგორ</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           contentArrowStyle={{ borderRight: "7px solid  rgb(78 22 112)" }}
-          // date="2021 - 2022"
+          date="1981"
           iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
           icon={<PersonIcon />}
         >
           <h5 className="vertical-timeline-element-title">
-            კალინინგრადის საავადმყოფო ...
+            დავიწყე მუშაობა კალინინის საოლქო საავამდყოფოში{" "}
           </h5>
-          <h6 className="vertical-timeline-element-subtitle mt-2">ექთანი </h6>
-          <p>• რას ვაკეთებდი</p>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
+          contentArrowStyle={{ borderLeft: "7px solid  rgb(78 22 112)" }}
+          date="1985"
+          iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
+          icon={<PersonIcon />}
+        >
+          <h5 className="vertical-timeline-element-title">
+            დავიწყე მასაჟისტის კარიერა კალინინის საოლქო საავადმყოფოში{" "}
+          </h5>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
+          contentArrowStyle={{ borderRight: "7px solid  rgb(78 22 112)" }}
+          date="1986"
+          iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
+          icon={<PersonIcon />}
+        >
+          <h5 className="vertical-timeline-element-title">
+            მაღალკვალიფიციური საქმიანობის გამო მივიღე კალინინში დაწესებული ჯილდო
+            "ოქროს ხელები"{" "}
+          </h5>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          contentStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
+          contentArrowStyle={{ borderLeft: "7px solid  rgb(78 22 112)" }}
+          date="1993"
+          iconStyle={{ background: "rgb(78 22 112)", color: "#fbd9ad" }}
+          icon={<PersonIcon />}
+        >
+          <h5 className="vertical-timeline-element-title">
+            დავიწყე მასაჟისტის პრაქტიკული საქმიანობა ბინაზე მისვლით, რაც
+            გრძელდება დღემდე{" "}
+          </h5>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
